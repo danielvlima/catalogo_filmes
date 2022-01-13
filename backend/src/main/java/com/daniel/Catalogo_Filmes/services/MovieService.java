@@ -10,8 +10,6 @@ import com.daniel.Catalogo_Filmes.dto.MovieDTO;
 import com.daniel.Catalogo_Filmes.entities.Movie;
 import com.daniel.Catalogo_Filmes.repositories.MovieRepository;
 
-
-
 @Service
 public class MovieService {
 	
